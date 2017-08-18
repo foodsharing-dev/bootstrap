@@ -7,9 +7,9 @@ use Illuminate\Support\ServiceProvider;
 class BootstrapServiceProvider extends ServiceProvider
 {
     protected $commands = [
-        'Foodsharing\Platform\Commands\Minify',
-        'Foodsharing\Platform\Commands\Installation',
-        'Foodsharing\Platform\Commands\Seed'
+        'Foodsharing\Bootstrap\Commands\Minify',
+        'Foodsharing\Bootstrap\Commands\Installation',
+        'Foodsharing\Bootstrap\Commands\Seed'
     ];
     /**
      * Bootstrap the application services.
