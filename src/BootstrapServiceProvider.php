@@ -1,6 +1,6 @@
 <?php
 
-namespace Foodsharing\Platform;
+namespace Foodsharing\Bootstrap;
 
 use Illuminate\Support\ServiceProvider;
 
