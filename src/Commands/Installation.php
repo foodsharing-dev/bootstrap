@@ -1,6 +1,6 @@
 <?php
 
-namespace Foodsharing\Platform\Commands;
+namespace Foodsharing\Bootstrap\Commands;
 
 use Illuminate\Console\Command;
 
