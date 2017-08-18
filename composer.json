@@ -10,7 +10,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Foodsharing\\Platform\\": "src/"
+            "Foodsharing\\Bootstrap\\": "src/"
         }
     },
     "require": {}
