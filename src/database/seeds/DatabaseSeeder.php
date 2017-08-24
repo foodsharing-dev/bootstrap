@@ -18,7 +18,7 @@ class DatabaseSeeder extends Seeder
 
 
         /*
-         * Seet Content Table
+         * Seed Content Table
          */
         $this->seedContent();
 
